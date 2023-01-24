@@ -16,7 +16,7 @@ jobs:
       - name: Update
         run: node main.js
         env:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN }}
       - name: Commit and push if changed
         run: |-
           git diff
