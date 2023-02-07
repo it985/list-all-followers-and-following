@@ -12,7 +12,7 @@
 | -- | -- | -- | -- | -- |
 | tryrun | 集大家之所长，补其吾所短。 | [www.tryrun.top](https://www.tryrun.top) | China | [@Home](https://github.com/Home) |
 
-## Followers <kbd>28</kbd>
+## Followers <kbd>27</kbd>
 
 <table>
   <tr>
@@ -125,13 +125,6 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/aplus-developer">
-        <img src="https://avatars.githubusercontent.com/u/89198066?v=4" width="50" />
-        <br />
-        aplus-developer
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/Th1983">
         <img src="https://avatars.githubusercontent.com/u/88440987?v=4" width="50" />
         <br />
@@ -159,7 +152,6 @@
         dirambora
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/IlyaAgarishev">
         <img src="https://avatars.githubusercontent.com/u/29237777?v=4" width="50" />
@@ -167,6 +159,7 @@
         IlyaAgarishev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/david-kariuki">
         <img src="https://avatars.githubusercontent.com/u/14153276?v=4" width="50" />
@@ -195,7 +188,6 @@
         hzdlive
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Leoche">
         <img src="https://avatars.githubusercontent.com/u/1678699?v=4" width="50" />
@@ -203,6 +195,7 @@
         Leoche
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chrislusf">
         <img src="https://avatars.githubusercontent.com/u/1543151?v=4" width="50" />
@@ -216,6 +209,8 @@
         <br />
         esin
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
