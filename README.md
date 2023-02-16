@@ -12,7 +12,7 @@
 | -- | -- | -- | -- | -- |
 | tryrun | 集大家之所长，补其吾所短。 | [www.tryrun.top](https://www.tryrun.top) | China | [@Home](https://github.com/Home) |
 
-## Followers <kbd>27</kbd>
+## Followers <kbd>26</kbd>
 
 <table>
   <tr>
@@ -21,13 +21,6 @@
         <img src="https://avatars.githubusercontent.com/u/123626877?v=4" width="50" />
         <br />
         greatbird100
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/Markusalas">
-        <img src="https://avatars.githubusercontent.com/u/122143242?v=4" width="50" />
-        <br />
-        Markusalas
       </a>
     </td>
     <td width="150" align="center">
@@ -51,7 +44,6 @@
         SPSEBASTIAAN
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AkinsolaTemidayo">
         <img src="https://avatars.githubusercontent.com/u/114838958?v=4" width="50" />
@@ -59,6 +51,7 @@
         AkinsolaTemidayo
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Nat8833">
         <img src="https://avatars.githubusercontent.com/u/114831614?v=4" width="50" />
@@ -87,7 +80,6 @@
         ANGELDUIDE
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JacksonUptain">
         <img src="https://avatars.githubusercontent.com/u/111402072?v=4" width="50" />
@@ -95,6 +87,7 @@
         JacksonUptain
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mtrackeros">
         <img src="https://avatars.githubusercontent.com/u/111332738?v=4" width="50" />
@@ -123,7 +116,6 @@
         dinosoid
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Th1983">
         <img src="https://avatars.githubusercontent.com/u/88440987?v=4" width="50" />
@@ -131,6 +123,7 @@
         Th1983
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sun0225SUN">
         <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="50" />
@@ -159,7 +152,6 @@
         IlyaAgarishev
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/david-kariuki">
         <img src="https://avatars.githubusercontent.com/u/14153276?v=4" width="50" />
@@ -167,6 +159,7 @@
         david-kariuki
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/alvin-tosh">
         <img src="https://avatars.githubusercontent.com/u/13796386?v=4" width="50" />
@@ -195,7 +188,6 @@
         Leoche
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chrislusf">
         <img src="https://avatars.githubusercontent.com/u/1543151?v=4" width="50" />
@@ -203,12 +195,15 @@
         chrislusf
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/esin">
         <img src="https://avatars.githubusercontent.com/u/69767?v=4" width="50" />
         <br />
         esin
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
