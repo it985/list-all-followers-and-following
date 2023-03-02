@@ -584,10 +584,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/modern-js-dev">
+      <a href="https://github.com/web-infra-dev">
         <img src="https://avatars.githubusercontent.com/u/87694465?v=4" width="50" />
         <br />
-        modern-js-dev
+        web-infra-dev
       </a>
     </td>
     <td width="150" align="center">
