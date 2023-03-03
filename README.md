@@ -12,7 +12,7 @@
 | -- | -- | -- | -- | -- |
 | tryrun | 集大家之所长，补其吾所短。 | [www.tryrun.top](https://www.tryrun.top) | China | [@Home](https://github.com/Home) |
 
-## Followers <kbd>25</kbd>
+## Followers <kbd>24</kbd>
 
 <table>
   <tr>
@@ -96,13 +96,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/BigJimHillJameel">
-        <img src="https://avatars.githubusercontent.com/u/110691880?v=4" width="50" />
-        <br />
-        BigJimHillJameel
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/dinosoid">
         <img src="https://avatars.githubusercontent.com/u/94695825?v=4" width="50" />
         <br />
@@ -123,7 +116,6 @@
         sun0225SUN
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bakoorahnin">
         <img src="https://avatars.githubusercontent.com/u/46295417?v=4" width="50" />
@@ -131,6 +123,7 @@
         bakoorahnin
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dirambora">
         <img src="https://avatars.githubusercontent.com/u/42798758?v=4" width="50" />
@@ -159,7 +152,6 @@
         alvin-tosh
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/grm34">
         <img src="https://avatars.githubusercontent.com/u/6394023?v=4" width="50" />
@@ -167,6 +159,7 @@
         grm34
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hzdlive">
         <img src="https://avatars.githubusercontent.com/u/3319136?v=4" width="50" />
@@ -194,6 +187,8 @@
         <br />
         esin
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
