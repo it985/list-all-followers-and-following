@@ -12,10 +12,60 @@
 | -- | -- | -- | -- | -- |
 | tryrun | 集大家之所长，补其吾所短。 | [www.tryrun.top](https://www.tryrun.top) | China | [@Home](https://github.com/Home) |
 
-## Followers <kbd>24</kbd>
+## Followers <kbd>31</kbd>
 
 <table>
   <tr>
+    <td width="150" align="center">
+      <a href="https://github.com/medisanaa">
+        <img src="https://avatars.githubusercontent.com/u/129278737?v=4" width="50" />
+        <br />
+        medisanaa
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/currlybracket">
+        <img src="https://avatars.githubusercontent.com/u/129277849?v=4" width="50" />
+        <br />
+        currlybracket
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/alexica32">
+        <img src="https://avatars.githubusercontent.com/u/129276251?v=4" width="50" />
+        <br />
+        alexica32
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/eddyonl">
+        <img src="https://avatars.githubusercontent.com/u/129272990?v=4" width="50" />
+        <br />
+        eddyonl
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/zaitweb3">
+        <img src="https://avatars.githubusercontent.com/u/129226518?v=4" width="50" />
+        <br />
+        zaitweb3
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/tacknuzz">
+        <img src="https://avatars.githubusercontent.com/u/129225953?v=4" width="50" />
+        <br />
+        tacknuzz
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/tnarrj">
+        <img src="https://avatars.githubusercontent.com/u/129224595?v=4" width="50" />
+        <br />
+        tnarrj
+      </a>
+    </td>
     <td width="150" align="center">
       <a href="https://github.com/greatbird100">
         <img src="https://avatars.githubusercontent.com/u/123626877?v=4" width="50" />
@@ -37,6 +87,7 @@
         Nikavoguialy
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/SPSEBASTIAAN">
         <img src="https://avatars.githubusercontent.com/u/116257852?v=4" width="50" />
@@ -51,7 +102,6 @@
         AkinsolaTemidayo
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Nat8833">
         <img src="https://avatars.githubusercontent.com/u/114831614?v=4" width="50" />
@@ -73,6 +123,7 @@
         Whiskey992
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ANGELDUIDE">
         <img src="https://avatars.githubusercontent.com/u/112624817?v=4" width="50" />
@@ -87,7 +138,6 @@
         JacksonUptain
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mtrackeros">
         <img src="https://avatars.githubusercontent.com/u/111332738?v=4" width="50" />
@@ -109,6 +159,7 @@
         Th1983
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sun0225SUN">
         <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="50" />
@@ -123,7 +174,6 @@
         bakoorahnin
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dirambora">
         <img src="https://avatars.githubusercontent.com/u/42798758?v=4" width="50" />
@@ -145,6 +195,7 @@
         david-kariuki
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/alvin-tosh">
         <img src="https://avatars.githubusercontent.com/u/13796386?v=4" width="50" />
@@ -159,7 +210,6 @@
         grm34
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hzdlive">
         <img src="https://avatars.githubusercontent.com/u/3319136?v=4" width="50" />
@@ -181,12 +231,19 @@
         chrislusf
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/esin">
         <img src="https://avatars.githubusercontent.com/u/69767?v=4" width="50" />
         <br />
         esin
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
