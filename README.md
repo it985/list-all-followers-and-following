@@ -250,7 +250,7 @@
   </tr>
 </table>
 
-## Following <kbd>58</kbd>
+## Following <kbd>59</kbd>
 
 <table>
   <tr>
@@ -636,12 +636,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/sun0225SUN">
+        <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="50" />
+        <br />
+        sun0225SUN
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/72wukong">
         <img src="https://avatars.githubusercontent.com/u/82020991?v=4" width="50" />
         <br />
         72wukong
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jeecgboot">
         <img src="https://avatars.githubusercontent.com/u/86360035?v=4" width="50" />
@@ -649,7 +657,6 @@
         jeecgboot
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/web-infra-dev">
         <img src="https://avatars.githubusercontent.com/u/87694465?v=4" width="50" />
@@ -670,8 +677,6 @@
         <br />
         halo-sigs
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
