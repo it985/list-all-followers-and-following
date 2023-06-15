@@ -182,17 +182,17 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/pinhe91">
-        <img src="https://avatars.githubusercontent.com/u/79625284?v=4" width="50" />
-        <br />
-        pinhe91
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/sun0225SUN">
         <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="50" />
         <br />
         sun0225SUN
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/smallerkun">
+        <img src="https://avatars.githubusercontent.com/u/62697048?v=4" width="50" />
+        <br />
+        smallerkun
       </a>
     </td>
   </tr><tr>
