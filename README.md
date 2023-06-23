@@ -260,7 +260,7 @@
   </tr>
 </table>
 
-## Following <kbd>65</kbd>
+## Following <kbd>66</kbd>
 
 <table>
   <tr>
@@ -617,13 +617,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/able8">
+        <img src="https://avatars.githubusercontent.com/u/26692080?v=4" width="50" />
+        <br />
+        able8
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/Snailclimb">
         <img src="https://avatars.githubusercontent.com/u/29880145?v=4" width="50" />
         <br />
         Snailclimb
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/0voice">
         <img src="https://avatars.githubusercontent.com/u/43104160?v=4" width="50" />
@@ -652,6 +659,7 @@
         doocs
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/actions">
         <img src="https://avatars.githubusercontent.com/u/44036562?v=4" width="50" />
@@ -659,7 +667,6 @@
         actions
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/halo-dev">
         <img src="https://avatars.githubusercontent.com/u/48195280?v=4" width="50" />
@@ -688,6 +695,7 @@
         webVueBlog
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sun0225SUN">
         <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="50" />
@@ -695,7 +703,6 @@
         sun0225SUN
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/72wukong">
         <img src="https://avatars.githubusercontent.com/u/82020991?v=4" width="50" />
@@ -724,12 +731,21 @@
         JDFED
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/halo-sigs">
         <img src="https://avatars.githubusercontent.com/u/107992769?v=4" width="50" />
         <br />
         halo-sigs
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
