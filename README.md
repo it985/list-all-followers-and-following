@@ -270,7 +270,7 @@
   </tr>
 </table>
 
-## Following <kbd>66</kbd>
+## Following <kbd>68</kbd>
 
 <table>
   <tr>
@@ -678,6 +678,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/java-community">
+        <img src="https://avatars.githubusercontent.com/u/47103846?v=4" width="50" />
+        <br />
+        java-community
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/go-community">
+        <img src="https://avatars.githubusercontent.com/u/47104367?v=4" width="50" />
+        <br />
+        go-community
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/halo-dev">
         <img src="https://avatars.githubusercontent.com/u/48195280?v=4" width="50" />
         <br />
@@ -691,6 +705,7 @@
         newbee-ltd
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Programming-With-Love">
         <img src="https://avatars.githubusercontent.com/u/56310988?v=4" width="50" />
@@ -705,7 +720,6 @@
         webVueBlog
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sun0225SUN">
         <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="50" />
@@ -727,6 +741,7 @@
         jeecgboot
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/web-infra-dev">
         <img src="https://avatars.githubusercontent.com/u/87694465?v=4" width="50" />
@@ -741,17 +756,12 @@
         JDFED
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/halo-sigs">
         <img src="https://avatars.githubusercontent.com/u/107992769?v=4" width="50" />
         <br />
         halo-sigs
       </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
