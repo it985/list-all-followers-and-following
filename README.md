@@ -270,7 +270,7 @@
   </tr>
 </table>
 
-## Following <kbd>69</kbd>
+## Following <kbd>70</kbd>
 
 <table>
   <tr>
@@ -649,6 +649,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Mordor171">
+        <img src="https://avatars.githubusercontent.com/u/42887891?v=4" width="50" />
+        <br />
+        Mordor171
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/0voice">
         <img src="https://avatars.githubusercontent.com/u/43104160?v=4" width="50" />
         <br />
@@ -662,6 +669,7 @@
         qunarcorp
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/30-seconds">
         <img src="https://avatars.githubusercontent.com/u/43479428?v=4" width="50" />
@@ -669,7 +677,6 @@
         30-seconds
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/doocs">
         <img src="https://avatars.githubusercontent.com/u/43716716?v=4" width="50" />
@@ -698,6 +705,7 @@
         go-community
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/halo-dev">
         <img src="https://avatars.githubusercontent.com/u/48195280?v=4" width="50" />
@@ -705,7 +713,6 @@
         halo-dev
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/newbee-ltd">
         <img src="https://avatars.githubusercontent.com/u/54432684?v=4" width="50" />
@@ -734,6 +741,7 @@
         sun0225SUN
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/72wukong">
         <img src="https://avatars.githubusercontent.com/u/82020991?v=4" width="50" />
@@ -741,7 +749,6 @@
         72wukong
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jeecgboot">
         <img src="https://avatars.githubusercontent.com/u/86360035?v=4" width="50" />
@@ -769,8 +776,6 @@
         <br />
         halo-sigs
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
