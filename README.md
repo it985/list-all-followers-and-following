@@ -270,7 +270,7 @@
   </tr>
 </table>
 
-## Following <kbd>70</kbd>
+## Following <kbd>71</kbd>
 
 <table>
   <tr>
@@ -649,6 +649,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Akegarasu">
+        <img src="https://avatars.githubusercontent.com/u/36563862?v=4" width="50" />
+        <br />
+        Akegarasu
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Mordor171">
         <img src="https://avatars.githubusercontent.com/u/42887891?v=4" width="50" />
         <br />
@@ -662,6 +669,7 @@
         0voice
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/qunarcorp">
         <img src="https://avatars.githubusercontent.com/u/43158242?v=4" width="50" />
@@ -669,7 +677,6 @@
         qunarcorp
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/30-seconds">
         <img src="https://avatars.githubusercontent.com/u/43479428?v=4" width="50" />
@@ -698,6 +705,7 @@
         java-community
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/go-community">
         <img src="https://avatars.githubusercontent.com/u/47104367?v=4" width="50" />
@@ -705,7 +713,6 @@
         go-community
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/halo-dev">
         <img src="https://avatars.githubusercontent.com/u/48195280?v=4" width="50" />
@@ -734,6 +741,7 @@
         webVueBlog
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sun0225SUN">
         <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="50" />
@@ -741,7 +749,6 @@
         sun0225SUN
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/72wukong">
         <img src="https://avatars.githubusercontent.com/u/82020991?v=4" width="50" />
@@ -770,12 +777,21 @@
         JDFED
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/halo-sigs">
         <img src="https://avatars.githubusercontent.com/u/107992769?v=4" width="50" />
         <br />
         halo-sigs
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
