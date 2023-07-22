@@ -656,10 +656,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Mordor171">
+      <a href="https://github.com/DioxideCN">
         <img src="https://avatars.githubusercontent.com/u/42887891?v=4" width="50" />
         <br />
-        Mordor171
+        DioxideCN
       </a>
     </td>
     <td width="150" align="center">
