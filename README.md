@@ -270,7 +270,7 @@
   </tr>
 </table>
 
-## Following <kbd>73</kbd>
+## Following <kbd>68</kbd>
 
 <table>
   <tr>
@@ -462,13 +462,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/75team">
-        <img src="https://avatars.githubusercontent.com/u/5575368?v=4" width="50" />
-        <br />
-        75team
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/realpdai">
         <img src="https://avatars.githubusercontent.com/u/6094984?v=4" width="50" />
         <br />
@@ -489,7 +482,6 @@
         microsoft
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/fex-team">
         <img src="https://avatars.githubusercontent.com/u/6668906?v=4" width="50" />
@@ -497,6 +489,7 @@
         fex-team
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dangdangdotcom">
         <img src="https://avatars.githubusercontent.com/u/9145684?v=4" width="50" />
@@ -525,7 +518,6 @@
         wovert
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ElemeFE">
         <img src="https://avatars.githubusercontent.com/u/12810740?v=4" width="50" />
@@ -533,6 +525,7 @@
         ElemeFE
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/baidu">
         <img src="https://avatars.githubusercontent.com/u/13245940?v=4" width="50" />
@@ -561,7 +554,6 @@
         sohutv
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Tencent">
         <img src="https://avatars.githubusercontent.com/u/18461506?v=4" width="50" />
@@ -569,6 +561,7 @@
         Tencent
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yangzongzhuan">
         <img src="https://avatars.githubusercontent.com/u/19240310?v=4" width="50" />
@@ -597,7 +590,6 @@
         Meituan-Dianping
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Huawei">
         <img src="https://avatars.githubusercontent.com/u/20315766?v=4" width="50" />
@@ -605,6 +597,7 @@
         Huawei
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/TheAlgorithms">
         <img src="https://avatars.githubusercontent.com/u/20487725?v=4" width="50" />
@@ -620,20 +613,12 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/liuzhihang">
-        <img src="https://avatars.githubusercontent.com/u/26057042?v=4" width="50" />
-        <br />
-        liuzhihang
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/able8">
         <img src="https://avatars.githubusercontent.com/u/26692080?v=4" width="50" />
         <br />
         able8
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Snailclimb">
         <img src="https://avatars.githubusercontent.com/u/29880145?v=4" width="50" />
@@ -648,6 +633,7 @@
         chinese-poetry
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Akegarasu">
         <img src="https://avatars.githubusercontent.com/u/36563862?v=4" width="50" />
@@ -662,14 +648,6 @@
         llnancy
       </a>
     </td>
-    <td width="150" align="center">
-      <a href="https://github.com/DioxideCN">
-        <img src="https://avatars.githubusercontent.com/u/42887891?v=4" width="50" />
-        <br />
-        DioxideCN
-      </a>
-    </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/0voice">
         <img src="https://avatars.githubusercontent.com/u/43104160?v=4" width="50" />
@@ -691,6 +669,7 @@
         30-seconds
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/doocs">
         <img src="https://avatars.githubusercontent.com/u/43716716?v=4" width="50" />
@@ -705,7 +684,6 @@
         actions
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/java-community">
         <img src="https://avatars.githubusercontent.com/u/47103846?v=4" width="50" />
@@ -721,19 +699,13 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/halo-dev">
-        <img src="https://avatars.githubusercontent.com/u/48195280?v=4" width="50" />
-        <br />
-        halo-dev
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/newbee-ltd">
         <img src="https://avatars.githubusercontent.com/u/54432684?v=4" width="50" />
         <br />
         newbee-ltd
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Programming-With-Love">
         <img src="https://avatars.githubusercontent.com/u/56310988?v=4" width="50" />
@@ -741,7 +713,6 @@
         Programming-With-Love
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/webVueBlog">
         <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="50" />
@@ -770,6 +741,7 @@
         jeecgboot
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/web-infra-dev">
         <img src="https://avatars.githubusercontent.com/u/87694465?v=4" width="50" />
@@ -777,7 +749,6 @@
         web-infra-dev
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JDFED">
         <img src="https://avatars.githubusercontent.com/u/93707722?v=4" width="50" />
@@ -790,13 +761,6 @@
         <img src="https://avatars.githubusercontent.com/u/100070999?v=4" width="50" />
         <br />
         gongjuecloak
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/halo-sigs">
-        <img src="https://avatars.githubusercontent.com/u/107992769?v=4" width="50" />
-        <br />
-        halo-sigs
       </a>
     </td>
     <td width="150" align="center">
