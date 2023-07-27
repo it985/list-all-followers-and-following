@@ -270,7 +270,7 @@
   </tr>
 </table>
 
-## Following <kbd>72</kbd>
+## Following <kbd>73</kbd>
 
 <table>
   <tr>
@@ -786,13 +786,18 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/gongjuecloak">
+        <img src="https://avatars.githubusercontent.com/u/100070999?v=4" width="50" />
+        <br />
+        gongjuecloak
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/halo-sigs">
         <img src="https://avatars.githubusercontent.com/u/107992769?v=4" width="50" />
         <br />
         halo-sigs
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
