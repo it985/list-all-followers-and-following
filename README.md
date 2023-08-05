@@ -291,7 +291,7 @@
   </tr>
 </table>
 
-## Following <kbd>70</kbd>
+## Following <kbd>69</kbd>
 
 <table>
   <tr>
@@ -749,20 +749,12 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/sun0225SUN">
-        <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="50" />
-        <br />
-        sun0225SUN
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/CodingDocs">
         <img src="https://avatars.githubusercontent.com/u/80885507?v=4" width="50" />
         <br />
         CodingDocs
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/72wukong">
         <img src="https://avatars.githubusercontent.com/u/82020991?v=4" width="50" />
@@ -770,6 +762,7 @@
         72wukong
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jeecgboot">
         <img src="https://avatars.githubusercontent.com/u/86360035?v=4" width="50" />
@@ -797,6 +790,8 @@
         <br />
         gongjuecloak
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
