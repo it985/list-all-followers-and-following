@@ -291,7 +291,7 @@
   </tr>
 </table>
 
-## Following <kbd>69</kbd>
+## Following <kbd>70</kbd>
 
 <table>
   <tr>
@@ -720,13 +720,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/opensabre">
+        <img src="https://avatars.githubusercontent.com/u/50523102?v=4" width="50" />
+        <br />
+        opensabre
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/newbee-ltd">
         <img src="https://avatars.githubusercontent.com/u/54432684?v=4" width="50" />
         <br />
         newbee-ltd
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Programming-With-Love">
         <img src="https://avatars.githubusercontent.com/u/56310988?v=4" width="50" />
@@ -755,6 +762,7 @@
         CodingDocs
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/72wukong">
         <img src="https://avatars.githubusercontent.com/u/82020991?v=4" width="50" />
@@ -762,7 +770,6 @@
         72wukong
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jeecgboot">
         <img src="https://avatars.githubusercontent.com/u/86360035?v=4" width="50" />
@@ -790,8 +797,6 @@
         <br />
         gongjuecloak
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
