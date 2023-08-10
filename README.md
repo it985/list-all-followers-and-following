@@ -296,7 +296,7 @@
   </tr>
 </table>
 
-## Following <kbd>76</kbd>
+## Following <kbd>77</kbd>
 
 <table>
   <tr>
@@ -841,13 +841,18 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/TigerRou">
+        <img src="https://avatars.githubusercontent.com/u/141698637?v=4" width="50" />
+        <br />
+        TigerRou
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/study996project">
         <img src="https://avatars.githubusercontent.com/u/141921965?v=4" width="50" />
         <br />
         study996project
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
