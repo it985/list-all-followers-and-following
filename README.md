@@ -291,7 +291,7 @@
   </tr>
 </table>
 
-## Following <kbd>70</kbd>
+## Following <kbd>76</kbd>
 
 <table>
   <tr>
@@ -797,6 +797,58 @@
         <br />
         gongjuecloak
       </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/itheima149">
+        <img src="https://avatars.githubusercontent.com/u/121678609?v=4" width="50" />
+        <br />
+        itheima149
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/bingwallpaper">
+        <img src="https://avatars.githubusercontent.com/u/122076629?v=4" width="50" />
+        <br />
+        bingwallpaper
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/gh-proxy">
+        <img src="https://avatars.githubusercontent.com/u/122531013?v=4" width="50" />
+        <br />
+        gh-proxy
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Awesome-tech">
+        <img src="https://avatars.githubusercontent.com/u/122545980?v=4" width="50" />
+        <br />
+        Awesome-tech
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/AwesomeTemplate">
+        <img src="https://avatars.githubusercontent.com/u/122947598?v=4" width="50" />
+        <br />
+        AwesomeTemplate
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/study996project">
+        <img src="https://avatars.githubusercontent.com/u/141921965?v=4" width="50" />
+        <br />
+        study996project
+      </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
