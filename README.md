@@ -848,10 +848,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/TigerRou">
+      <a href="https://github.com/SFatTiger">
         <img src="https://avatars.githubusercontent.com/u/141698637?v=4" width="50" />
         <br />
-        TigerRou
+        SFatTiger
       </a>
     </td>
     <td width="150" align="center">
