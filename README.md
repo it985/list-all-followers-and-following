@@ -301,7 +301,7 @@
   </tr>
 </table>
 
-## Following <kbd>78</kbd>
+## Following <kbd>77</kbd>
 
 <table>
   <tr>
@@ -759,20 +759,12 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/minterjia">
-        <img src="https://avatars.githubusercontent.com/u/61584074?v=4" width="50" />
-        <br />
-        minterjia
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/jiewenhuang">
         <img src="https://avatars.githubusercontent.com/u/68629578?v=4" width="50" />
         <br />
         jiewenhuang
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CodingDocs">
         <img src="https://avatars.githubusercontent.com/u/80885507?v=4" width="50" />
@@ -780,6 +772,7 @@
         CodingDocs
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/72wukong">
         <img src="https://avatars.githubusercontent.com/u/82020991?v=4" width="50" />
@@ -808,7 +801,6 @@
         JDFED
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gongjuecloak">
         <img src="https://avatars.githubusercontent.com/u/100070999?v=4" width="50" />
@@ -816,6 +808,7 @@
         gongjuecloak
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/itheima149">
         <img src="https://avatars.githubusercontent.com/u/121678609?v=4" width="50" />
@@ -844,7 +837,6 @@
         Awesome-tech
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AwesomeTemplate">
         <img src="https://avatars.githubusercontent.com/u/122947598?v=4" width="50" />
@@ -852,6 +844,7 @@
         AwesomeTemplate
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/SFatTiger">
         <img src="https://avatars.githubusercontent.com/u/141698637?v=4" width="50" />
@@ -865,6 +858,8 @@
         <br />
         study996project
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
