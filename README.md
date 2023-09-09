@@ -301,7 +301,7 @@
   </tr>
 </table>
 
-## Following <kbd>76</kbd>
+## Following <kbd>72</kbd>
 
 <table>
   <tr>
@@ -658,20 +658,13 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Akegarasu">
-        <img src="https://avatars.githubusercontent.com/u/36563862?v=4" width="50" />
-        <br />
-        Akegarasu
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
       <a href="https://github.com/llnancy">
         <img src="https://avatars.githubusercontent.com/u/40930677?v=4" width="50" />
         <br />
         llnancy
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/0voice">
         <img src="https://avatars.githubusercontent.com/u/43104160?v=4" width="50" />
@@ -700,7 +693,6 @@
         doocs
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/actions">
         <img src="https://avatars.githubusercontent.com/u/44036562?v=4" width="50" />
@@ -708,6 +700,7 @@
         actions
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/java-community">
         <img src="https://avatars.githubusercontent.com/u/47103846?v=4" width="50" />
@@ -736,7 +729,6 @@
         newbee-ltd
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Programming-With-Love">
         <img src="https://avatars.githubusercontent.com/u/56310988?v=4" width="50" />
@@ -744,18 +736,12 @@
         Programming-With-Love
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/webVueBlog">
         <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="50" />
         <br />
         webVueBlog
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/jiewenhuang">
-        <img src="https://avatars.githubusercontent.com/u/68629578?v=4" width="50" />
-        <br />
-        jiewenhuang
       </a>
     </td>
     <td width="150" align="center">
@@ -772,7 +758,6 @@
         72wukong
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jeecgboot">
         <img src="https://avatars.githubusercontent.com/u/86360035?v=4" width="50" />
@@ -787,18 +772,12 @@
         web-infra-dev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JDFED">
         <img src="https://avatars.githubusercontent.com/u/93707722?v=4" width="50" />
         <br />
         JDFED
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/gongjuecloak">
-        <img src="https://avatars.githubusercontent.com/u/100070999?v=4" width="50" />
-        <br />
-        gongjuecloak
       </a>
     </td>
     <td width="150" align="center">
@@ -808,7 +787,6 @@
         itheima149
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bingwallpaper">
         <img src="https://avatars.githubusercontent.com/u/122076629?v=4" width="50" />
@@ -830,6 +808,7 @@
         Awesome-tech
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AwesomeTemplate">
         <img src="https://avatars.githubusercontent.com/u/122947598?v=4" width="50" />
@@ -838,21 +817,11 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/SFatTiger">
-        <img src="https://avatars.githubusercontent.com/u/141698637?v=4" width="50" />
-        <br />
-        SFatTiger
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
       <a href="https://github.com/study996project">
         <img src="https://avatars.githubusercontent.com/u/141921965?v=4" width="50" />
         <br />
         study996project
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
