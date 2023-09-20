@@ -12,10 +12,17 @@
 | -- | -- | -- | -- | -- |
 | it985 | 集大家之所长，补其吾所短。 | [www.tryrun.top](https://www.tryrun.top) | China | [@Home](https://github.com/Home) |
 
-## Followers <kbd>37</kbd>
+## Followers <kbd>38</kbd>
 
 <table>
   <tr>
+    <td width="150" align="center">
+      <a href="https://github.com/thomassync">
+        <img src="https://avatars.githubusercontent.com/u/144948158?v=4" width="50" />
+        <br />
+        thomassync
+      </a>
+    </td>
     <td width="150" align="center">
       <a href="https://github.com/Xiatian1999">
         <img src="https://avatars.githubusercontent.com/u/137675208?v=4" width="50" />
@@ -44,6 +51,7 @@
         LaryGereg56
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/medisanaa">
         <img src="https://avatars.githubusercontent.com/u/129278737?v=4" width="50" />
@@ -51,7 +59,6 @@
         medisanaa
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/currlybracket">
         <img src="https://avatars.githubusercontent.com/u/129277849?v=4" width="50" />
@@ -80,6 +87,7 @@
         tacknuzz
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rileyca">
         <img src="https://avatars.githubusercontent.com/u/129225230?v=4" width="50" />
@@ -87,7 +95,6 @@
         rileyca
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dmytrmk">
         <img src="https://avatars.githubusercontent.com/u/129224595?v=4" width="50" />
@@ -116,6 +123,7 @@
         Nikavoguialy
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/SPSEBASTIAAN">
         <img src="https://avatars.githubusercontent.com/u/116257852?v=4" width="50" />
@@ -123,7 +131,6 @@
         SPSEBASTIAAN
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AkinsolaTemidayo">
         <img src="https://avatars.githubusercontent.com/u/114838958?v=4" width="50" />
@@ -152,6 +159,7 @@
         Whiskey992
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ANGELDUIDE">
         <img src="https://avatars.githubusercontent.com/u/112624817?v=4" width="50" />
@@ -159,7 +167,6 @@
         ANGELDUIDE
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JacksonUptain">
         <img src="https://avatars.githubusercontent.com/u/111402072?v=4" width="50" />
@@ -188,6 +195,7 @@
         pinhe91
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/arpy8">
         <img src="https://avatars.githubusercontent.com/u/74809468?v=4" width="50" />
@@ -195,7 +203,6 @@
         arpy8
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/smallerkun">
         <img src="https://avatars.githubusercontent.com/u/62697048?v=4" width="50" />
@@ -224,6 +231,7 @@
         bakoorahnin
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dirambora">
         <img src="https://avatars.githubusercontent.com/u/42798758?v=4" width="50" />
@@ -231,7 +239,6 @@
         dirambora
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kaka-jia">
         <img src="https://avatars.githubusercontent.com/u/25244657?v=4" width="50" />
@@ -260,6 +267,7 @@
         hzdlive
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Leoche">
         <img src="https://avatars.githubusercontent.com/u/1678699?v=4" width="50" />
@@ -267,7 +275,6 @@
         Leoche
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chrislusf">
         <img src="https://avatars.githubusercontent.com/u/1543151?v=4" width="50" />
@@ -281,8 +288,6 @@
         <br />
         esin
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
