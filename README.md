@@ -296,7 +296,7 @@
   </tr>
 </table>
 
-## Following <kbd>72</kbd>
+## Following <kbd>73</kbd>
 
 <table>
   <tr>
@@ -632,6 +632,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/shuhongfan">
+        <img src="https://avatars.githubusercontent.com/u/22501693?v=4" width="50" />
+        <br />
+        shuhongfan
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/able8">
         <img src="https://avatars.githubusercontent.com/u/26692080?v=4" width="50" />
         <br />
@@ -652,6 +659,7 @@
         chinese-poetry
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/llnancy">
         <img src="https://avatars.githubusercontent.com/u/40930677?v=4" width="50" />
@@ -659,7 +667,6 @@
         llnancy
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/0voice">
         <img src="https://avatars.githubusercontent.com/u/43104160?v=4" width="50" />
@@ -688,6 +695,7 @@
         doocs
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/actions">
         <img src="https://avatars.githubusercontent.com/u/44036562?v=4" width="50" />
@@ -695,7 +703,6 @@
         actions
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/java-community">
         <img src="https://avatars.githubusercontent.com/u/47103846?v=4" width="50" />
@@ -724,6 +731,7 @@
         newbee-ltd
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Programming-With-Love">
         <img src="https://avatars.githubusercontent.com/u/56310988?v=4" width="50" />
@@ -731,7 +739,6 @@
         Programming-With-Love
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/webVueBlog">
         <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="50" />
@@ -760,6 +767,7 @@
         jeecgboot
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/web-infra-dev">
         <img src="https://avatars.githubusercontent.com/u/87694465?v=4" width="50" />
@@ -767,7 +775,6 @@
         web-infra-dev
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JDFED">
         <img src="https://avatars.githubusercontent.com/u/93707722?v=4" width="50" />
@@ -796,6 +803,7 @@
         gh-proxy
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Awesome-tech">
         <img src="https://avatars.githubusercontent.com/u/122545980?v=4" width="50" />
@@ -803,7 +811,6 @@
         Awesome-tech
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AwesomeTemplate">
         <img src="https://avatars.githubusercontent.com/u/122947598?v=4" width="50" />
@@ -817,8 +824,6 @@
         <br />
         study996project
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
