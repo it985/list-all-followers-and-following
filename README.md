@@ -12,7 +12,7 @@
 | -- | -- | -- | -- | -- |
 | it985 | 集大家之所长，补其吾所短。 | [www.tryrun.top](https://www.tryrun.top) | China | [@Home](https://github.com/Home) |
 
-## Followers <kbd>39</kbd>
+## Followers <kbd>38</kbd>
 
 <table>
   <tr>
@@ -211,13 +211,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/bpradiip">
-        <img src="https://avatars.githubusercontent.com/u/59313918?v=4" width="50" />
-        <br />
-        bpradiip
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/surfskyio">
         <img src="https://avatars.githubusercontent.com/u/59265835?v=4" width="50" />
         <br />
@@ -231,7 +224,6 @@
         yn197
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bakoorahnin">
         <img src="https://avatars.githubusercontent.com/u/46295417?v=4" width="50" />
@@ -239,6 +231,7 @@
         bakoorahnin
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dirambora">
         <img src="https://avatars.githubusercontent.com/u/42798758?v=4" width="50" />
@@ -267,7 +260,6 @@
         grm34
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hzdlive">
         <img src="https://avatars.githubusercontent.com/u/3319136?v=4" width="50" />
@@ -275,6 +267,7 @@
         hzdlive
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Leoche">
         <img src="https://avatars.githubusercontent.com/u/1678699?v=4" width="50" />
@@ -295,6 +288,8 @@
         <br />
         esin
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
