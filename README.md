@@ -296,7 +296,7 @@
   </tr>
 </table>
 
-## Following <kbd>73</kbd>
+## Following <kbd>74</kbd>
 
 <table>
   <tr>
@@ -819,13 +819,18 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/CyberCommy">
+        <img src="https://avatars.githubusercontent.com/u/132496677?v=4" width="50" />
+        <br />
+        CyberCommy
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/study996project">
         <img src="https://avatars.githubusercontent.com/u/141921965?v=4" width="50" />
         <br />
         study996project
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
