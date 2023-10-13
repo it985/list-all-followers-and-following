@@ -754,10 +754,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/72wukong">
+      <a href="https://github.com/WuKongOpenSource">
         <img src="https://avatars.githubusercontent.com/u/82020991?v=4" width="50" />
         <br />
-        72wukong
+        WuKongOpenSource
       </a>
     </td>
     <td width="150" align="center">
