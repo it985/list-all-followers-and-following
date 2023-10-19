@@ -296,7 +296,7 @@
   </tr>
 </table>
 
-## Following <kbd>74</kbd>
+## Following <kbd>75</kbd>
 
 <table>
   <tr>
@@ -704,6 +704,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/rcy1314">
+        <img src="https://avatars.githubusercontent.com/u/46085246?v=4" width="50" />
+        <br />
+        rcy1314
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/java-community">
         <img src="https://avatars.githubusercontent.com/u/47103846?v=4" width="50" />
         <br />
@@ -724,6 +731,7 @@
         opensabre
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/newbee-ltd">
         <img src="https://avatars.githubusercontent.com/u/54432684?v=4" width="50" />
@@ -731,7 +739,6 @@
         newbee-ltd
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Programming-With-Love">
         <img src="https://avatars.githubusercontent.com/u/56310988?v=4" width="50" />
@@ -760,6 +767,7 @@
         WuKongOpenSource
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jeecgboot">
         <img src="https://avatars.githubusercontent.com/u/86360035?v=4" width="50" />
@@ -767,7 +775,6 @@
         jeecgboot
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/web-infra-dev">
         <img src="https://avatars.githubusercontent.com/u/87694465?v=4" width="50" />
@@ -796,6 +803,7 @@
         bingwallpaper
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gh-proxy">
         <img src="https://avatars.githubusercontent.com/u/122531013?v=4" width="50" />
@@ -803,7 +811,6 @@
         gh-proxy
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Awesome-tech">
         <img src="https://avatars.githubusercontent.com/u/122545980?v=4" width="50" />
@@ -831,8 +838,6 @@
         <br />
         study996project
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
