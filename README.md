@@ -296,7 +296,7 @@
   </tr>
 </table>
 
-## Following <kbd>75</kbd>
+## Following <kbd>76</kbd>
 
 <table>
   <tr>
@@ -754,12 +754,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/element-plus">
+        <img src="https://avatars.githubusercontent.com/u/68583457?v=4" width="50" />
+        <br />
+        element-plus
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/CodingDocs">
         <img src="https://avatars.githubusercontent.com/u/80885507?v=4" width="50" />
         <br />
         CodingDocs
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/WuKongOpenSource">
         <img src="https://avatars.githubusercontent.com/u/82020991?v=4" width="50" />
@@ -767,7 +775,6 @@
         WuKongOpenSource
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jeecgboot">
         <img src="https://avatars.githubusercontent.com/u/86360035?v=4" width="50" />
@@ -796,6 +803,7 @@
         itheima149
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bingwallpaper">
         <img src="https://avatars.githubusercontent.com/u/122076629?v=4" width="50" />
@@ -803,7 +811,6 @@
         bingwallpaper
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gh-proxy">
         <img src="https://avatars.githubusercontent.com/u/122531013?v=4" width="50" />
@@ -832,12 +839,21 @@
         CyberCommy
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/study996project">
         <img src="https://avatars.githubusercontent.com/u/141921965?v=4" width="50" />
         <br />
         study996project
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
