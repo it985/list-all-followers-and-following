@@ -296,7 +296,7 @@
   </tr>
 </table>
 
-## Following <kbd>76</kbd>
+## Following <kbd>77</kbd>
 
 <table>
   <tr>
@@ -560,6 +560,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/EbookFoundation">
+        <img src="https://avatars.githubusercontent.com/u/14127308?v=4" width="50" />
+        <br />
+        EbookFoundation
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/macrozheng">
         <img src="https://avatars.githubusercontent.com/u/15903809?v=4" width="50" />
         <br />
@@ -580,6 +587,7 @@
         Tencent
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yangzongzhuan">
         <img src="https://avatars.githubusercontent.com/u/19240310?v=4" width="50" />
@@ -587,7 +595,6 @@
         yangzongzhuan
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/baomidou">
         <img src="https://avatars.githubusercontent.com/u/19258107?v=4" width="50" />
@@ -616,6 +623,7 @@
         Huawei
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/TheAlgorithms">
         <img src="https://avatars.githubusercontent.com/u/20487725?v=4" width="50" />
@@ -623,7 +631,6 @@
         TheAlgorithms
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lerry903">
         <img src="https://avatars.githubusercontent.com/u/22475575?v=4" width="50" />
@@ -652,6 +659,7 @@
         Snailclimb
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chinese-poetry">
         <img src="https://avatars.githubusercontent.com/u/30764933?v=4" width="50" />
@@ -659,7 +667,6 @@
         chinese-poetry
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/llnancy">
         <img src="https://avatars.githubusercontent.com/u/40930677?v=4" width="50" />
@@ -688,6 +695,7 @@
         30-seconds
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/doocs">
         <img src="https://avatars.githubusercontent.com/u/43716716?v=4" width="50" />
@@ -695,7 +703,6 @@
         doocs
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/actions">
         <img src="https://avatars.githubusercontent.com/u/44036562?v=4" width="50" />
@@ -724,6 +731,7 @@
         go-community
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/opensabre">
         <img src="https://avatars.githubusercontent.com/u/50523102?v=4" width="50" />
@@ -731,7 +739,6 @@
         opensabre
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/newbee-ltd">
         <img src="https://avatars.githubusercontent.com/u/54432684?v=4" width="50" />
@@ -760,6 +767,7 @@
         element-plus
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CodingDocs">
         <img src="https://avatars.githubusercontent.com/u/80885507?v=4" width="50" />
@@ -767,7 +775,6 @@
         CodingDocs
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/WuKongOpenSource">
         <img src="https://avatars.githubusercontent.com/u/82020991?v=4" width="50" />
@@ -796,6 +803,7 @@
         JDFED
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/itheima149">
         <img src="https://avatars.githubusercontent.com/u/121678609?v=4" width="50" />
@@ -803,7 +811,6 @@
         itheima149
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bingwallpaper">
         <img src="https://avatars.githubusercontent.com/u/122076629?v=4" width="50" />
@@ -832,6 +839,7 @@
         AwesomeTemplate
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CyberCommy">
         <img src="https://avatars.githubusercontent.com/u/132496677?v=4" width="50" />
@@ -839,15 +847,12 @@
         CyberCommy
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/study996project">
         <img src="https://avatars.githubusercontent.com/u/141921965?v=4" width="50" />
         <br />
         study996project
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
