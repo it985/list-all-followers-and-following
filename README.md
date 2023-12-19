@@ -10,7 +10,7 @@
 
 | Name | Bio | Blog | Location | Company |
 | -- | -- | -- | -- | -- |
-| it985 | 集大家之所长，补其吾所短。 | [www.tryrun.top](https://www.tryrun.top) | China | [@Home](https://github.com/Home) |
+| it985 | 集大家之所长，补其吾所短。 | [www.study996.cn](https://www.study996.cn) | China | [@Home](https://github.com/Home) |
 
 ## Followers <kbd>38</kbd>
 
