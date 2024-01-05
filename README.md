@@ -296,7 +296,7 @@
   </tr>
 </table>
 
-## Following <kbd>77</kbd>
+## Following <kbd>78</kbd>
 
 <table>
   <tr>
@@ -769,6 +769,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/bulianglin">
+        <img src="https://avatars.githubusercontent.com/u/78075785?v=4" width="50" />
+        <br />
+        bulianglin
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/CodingDocs">
         <img src="https://avatars.githubusercontent.com/u/80885507?v=4" width="50" />
         <br />
@@ -796,6 +803,7 @@
         web-infra-dev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JDFED">
         <img src="https://avatars.githubusercontent.com/u/93707722?v=4" width="50" />
@@ -803,7 +811,6 @@
         JDFED
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/itheima149">
         <img src="https://avatars.githubusercontent.com/u/121678609?v=4" width="50" />
@@ -832,6 +839,7 @@
         Awesome-tech
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AwesomeTemplate">
         <img src="https://avatars.githubusercontent.com/u/122947598?v=4" width="50" />
@@ -839,7 +847,6 @@
         AwesomeTemplate
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CyberCommy">
         <img src="https://avatars.githubusercontent.com/u/132496677?v=4" width="50" />
@@ -853,8 +860,6 @@
         <br />
         study996project
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
