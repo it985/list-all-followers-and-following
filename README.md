@@ -296,7 +296,7 @@
   </tr>
 </table>
 
-## Following <kbd>78</kbd>
+## Following <kbd>73</kbd>
 
 <table>
   <tr>
@@ -769,6 +769,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/jd-opensource">
+        <img src="https://avatars.githubusercontent.com/u/75349771?v=4" width="50" />
+        <br />
+        jd-opensource
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/bulianglin">
         <img src="https://avatars.githubusercontent.com/u/78075785?v=4" width="50" />
         <br />
@@ -796,19 +803,12 @@
         jeecgboot
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/web-infra-dev">
         <img src="https://avatars.githubusercontent.com/u/87694465?v=4" width="50" />
         <br />
         web-infra-dev
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
-      <a href="https://github.com/JDFED">
-        <img src="https://avatars.githubusercontent.com/u/93707722?v=4" width="50" />
-        <br />
-        JDFED
       </a>
     </td>
     <td width="150" align="center">
@@ -819,46 +819,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/bingwallpaper">
-        <img src="https://avatars.githubusercontent.com/u/122076629?v=4" width="50" />
-        <br />
-        bingwallpaper
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/gh-proxy">
-        <img src="https://avatars.githubusercontent.com/u/122531013?v=4" width="50" />
-        <br />
-        gh-proxy
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/Awesome-tech">
-        <img src="https://avatars.githubusercontent.com/u/122545980?v=4" width="50" />
-        <br />
-        Awesome-tech
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
-      <a href="https://github.com/AwesomeTemplate">
-        <img src="https://avatars.githubusercontent.com/u/122947598?v=4" width="50" />
-        <br />
-        AwesomeTemplate
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/CyberCommy">
         <img src="https://avatars.githubusercontent.com/u/132496677?v=4" width="50" />
         <br />
         CyberCommy
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/study996project">
-        <img src="https://avatars.githubusercontent.com/u/141921965?v=4" width="50" />
-        <br />
-        study996project
       </a>
     </td>
     <td width="150" align="center">
