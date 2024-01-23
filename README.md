@@ -296,7 +296,7 @@
   </tr>
 </table>
 
-## Following <kbd>73</kbd>
+## Following <kbd>74</kbd>
 
 <table>
   <tr>
@@ -668,6 +668,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/eryajf">
+        <img src="https://avatars.githubusercontent.com/u/33259379?v=4" width="50" />
+        <br />
+        eryajf
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/llnancy">
         <img src="https://avatars.githubusercontent.com/u/40930677?v=4" width="50" />
         <br />
@@ -688,6 +695,7 @@
         qunarcorp
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/30-seconds">
         <img src="https://avatars.githubusercontent.com/u/43479428?v=4" width="50" />
@@ -695,7 +703,6 @@
         30-seconds
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/doocs">
         <img src="https://avatars.githubusercontent.com/u/43716716?v=4" width="50" />
@@ -724,6 +731,7 @@
         java-community
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/go-community">
         <img src="https://avatars.githubusercontent.com/u/47104367?v=4" width="50" />
@@ -731,7 +739,6 @@
         go-community
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/opensabre">
         <img src="https://avatars.githubusercontent.com/u/50523102?v=4" width="50" />
@@ -760,6 +767,7 @@
         webVueBlog
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/element-plus">
         <img src="https://avatars.githubusercontent.com/u/68583457?v=4" width="50" />
@@ -767,7 +775,6 @@
         element-plus
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jd-opensource">
         <img src="https://avatars.githubusercontent.com/u/75349771?v=4" width="50" />
@@ -796,6 +803,7 @@
         WuKongOpenSource
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jeecgboot">
         <img src="https://avatars.githubusercontent.com/u/86360035?v=4" width="50" />
@@ -803,7 +811,6 @@
         jeecgboot
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/web-infra-dev">
         <img src="https://avatars.githubusercontent.com/u/87694465?v=4" width="50" />
@@ -824,8 +831,6 @@
         <br />
         CyberCommy
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
