@@ -296,7 +296,7 @@
   </tr>
 </table>
 
-## Following <kbd>74</kbd>
+## Following <kbd>75</kbd>
 
 <table>
   <tr>
@@ -776,6 +776,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/it-ebooks-0">
+        <img src="https://avatars.githubusercontent.com/u/70613375?v=4" width="50" />
+        <br />
+        it-ebooks-0
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/jd-opensource">
         <img src="https://avatars.githubusercontent.com/u/75349771?v=4" width="50" />
         <br />
@@ -796,6 +803,7 @@
         CodingDocs
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/WuKongOpenSource">
         <img src="https://avatars.githubusercontent.com/u/82020991?v=4" width="50" />
@@ -803,7 +811,6 @@
         WuKongOpenSource
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jeecgboot">
         <img src="https://avatars.githubusercontent.com/u/86360035?v=4" width="50" />
@@ -831,8 +838,6 @@
         <br />
         CyberCommy
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
