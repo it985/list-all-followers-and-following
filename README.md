@@ -296,7 +296,7 @@
   </tr>
 </table>
 
-## Following <kbd>77</kbd>
+## Following <kbd>78</kbd>
 
 <table>
   <tr>
@@ -783,6 +783,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/kuaidi100-api">
+        <img src="https://avatars.githubusercontent.com/u/68226294?v=4" width="50" />
+        <br />
+        kuaidi100-api
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/element-plus">
         <img src="https://avatars.githubusercontent.com/u/68583457?v=4" width="50" />
         <br />
@@ -796,6 +803,7 @@
         it-ebooks-0
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jd-opensource">
         <img src="https://avatars.githubusercontent.com/u/75349771?v=4" width="50" />
@@ -803,7 +811,6 @@
         jd-opensource
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bulianglin">
         <img src="https://avatars.githubusercontent.com/u/78075785?v=4" width="50" />
@@ -832,6 +839,7 @@
         jeecgboot
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/web-infra-dev">
         <img src="https://avatars.githubusercontent.com/u/87694465?v=4" width="50" />
@@ -839,7 +847,6 @@
         web-infra-dev
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/itheima149">
         <img src="https://avatars.githubusercontent.com/u/121678609?v=4" width="50" />
@@ -853,8 +860,6 @@
         <br />
         CyberCommy
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
