@@ -296,7 +296,7 @@
   </tr>
 </table>
 
-## Following <kbd>78</kbd>
+## Following <kbd>79</kbd>
 
 <table>
   <tr>
@@ -848,6 +848,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/uncle-novel">
+        <img src="https://avatars.githubusercontent.com/u/105362125?v=4" width="50" />
+        <br />
+        uncle-novel
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/itheima149">
         <img src="https://avatars.githubusercontent.com/u/121678609?v=4" width="50" />
         <br />
@@ -860,8 +867,6 @@
         <br />
         CyberCommy
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
