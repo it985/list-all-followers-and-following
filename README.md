@@ -291,7 +291,7 @@
   </tr>
 </table>
 
-## Following <kbd>79</kbd>
+## Following <kbd>78</kbd>
 
 <table>
   <tr>
@@ -677,20 +677,12 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/eryajf">
-        <img src="https://avatars.githubusercontent.com/u/33259379?v=4" width="50" />
-        <br />
-        eryajf
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/llnancy">
         <img src="https://avatars.githubusercontent.com/u/40930677?v=4" width="50" />
         <br />
         llnancy
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/0voice">
         <img src="https://avatars.githubusercontent.com/u/43104160?v=4" width="50" />
@@ -698,6 +690,7 @@
         0voice
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/qunarcorp">
         <img src="https://avatars.githubusercontent.com/u/43158242?v=4" width="50" />
@@ -726,7 +719,6 @@
         actions
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rcy1314">
         <img src="https://avatars.githubusercontent.com/u/46085246?v=4" width="50" />
@@ -734,6 +726,7 @@
         rcy1314
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/java-community">
         <img src="https://avatars.githubusercontent.com/u/47103846?v=4" width="50" />
@@ -762,7 +755,6 @@
         newbee-ltd
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Programming-With-Love">
         <img src="https://avatars.githubusercontent.com/u/56310988?v=4" width="50" />
@@ -770,6 +762,7 @@
         Programming-With-Love
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/webVueBlog">
         <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="50" />
@@ -798,7 +791,6 @@
         it-ebooks-0
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jd-opensource">
         <img src="https://avatars.githubusercontent.com/u/75349771?v=4" width="50" />
@@ -806,6 +798,7 @@
         jd-opensource
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bulianglin">
         <img src="https://avatars.githubusercontent.com/u/78075785?v=4" width="50" />
@@ -834,7 +827,6 @@
         jeecgboot
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/web-infra-dev">
         <img src="https://avatars.githubusercontent.com/u/87694465?v=4" width="50" />
@@ -842,6 +834,7 @@
         web-infra-dev
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/uncle-novel">
         <img src="https://avatars.githubusercontent.com/u/105362125?v=4" width="50" />
@@ -862,6 +855,8 @@
         <br />
         CyberCommy
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
