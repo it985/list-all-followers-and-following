@@ -12,7 +12,7 @@
 | -- | -- | -- | -- | -- |
 | it985 | 集大家之所长，补其吾所短。 | - | China | [@Home](https://github.com/Home) |
 
-## Followers <kbd>37</kbd>
+## Followers <kbd>39</kbd>
 
 <table>
   <tr>
@@ -189,13 +189,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/sammorozov">
+        <img src="https://avatars.githubusercontent.com/u/109150200?v=4" width="50" />
+        <br />
+        sammorozov
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/Th1983">
         <img src="https://avatars.githubusercontent.com/u/88440987?v=4" width="50" />
         <br />
         Th1983
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/pinhe91">
         <img src="https://avatars.githubusercontent.com/u/79625284?v=4" width="50" />
@@ -218,6 +225,14 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Kos-M">
+        <img src="https://avatars.githubusercontent.com/u/46938390?v=4" width="50" />
+        <br />
+        Kos-M
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/bakoorahnin">
         <img src="https://avatars.githubusercontent.com/u/46295417?v=4" width="50" />
         <br />
@@ -231,7 +246,6 @@
         dirambora
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kaka-jia">
         <img src="https://avatars.githubusercontent.com/u/25244657?v=4" width="50" />
@@ -253,6 +267,7 @@
         grm34
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hzdlive">
         <img src="https://avatars.githubusercontent.com/u/3319136?v=4" width="50" />
@@ -267,7 +282,6 @@
         Leoche
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chrislusf">
         <img src="https://avatars.githubusercontent.com/u/1543151?v=4" width="50" />
@@ -281,10 +295,6 @@
         <br />
         esin
       </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
