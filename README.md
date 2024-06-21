@@ -296,7 +296,7 @@
   </tr>
 </table>
 
-## Following <kbd>78</kbd>
+## Following <kbd>76</kbd>
 
 <table>
   <tr>
@@ -805,13 +805,6 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/bulianglin">
-        <img src="https://avatars.githubusercontent.com/u/78075785?v=4" width="50" />
-        <br />
-        bulianglin
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/CodingDocs">
         <img src="https://avatars.githubusercontent.com/u/80885507?v=4" width="50" />
         <br />
@@ -839,7 +832,6 @@
         web-infra-dev
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/uncle-novel">
         <img src="https://avatars.githubusercontent.com/u/105362125?v=4" width="50" />
@@ -847,19 +839,17 @@
         uncle-novel
       </a>
     </td>
-    <td width="150" align="center">
-      <a href="https://github.com/itheima149">
-        <img src="https://avatars.githubusercontent.com/u/121678609?v=4" width="50" />
-        <br />
-        itheima149
-      </a>
-    </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CyberCommy">
         <img src="https://avatars.githubusercontent.com/u/132496677?v=4" width="50" />
         <br />
         CyberCommy
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
