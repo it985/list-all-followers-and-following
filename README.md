@@ -12,7 +12,7 @@
 | -- | -- | -- | -- | -- |
 | it985 | 集大家之所长，补其吾所短。 | - | China | [@Home](https://github.com/Home) |
 
-## Followers <kbd>38</kbd>
+## Followers <kbd>39</kbd>
 
 <table>
   <tr>
@@ -240,6 +240,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/eust-w">
+        <img src="https://avatars.githubusercontent.com/u/39115651?v=4" width="50" />
+        <br />
+        eust-w
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/kaka-jia">
         <img src="https://avatars.githubusercontent.com/u/25244657?v=4" width="50" />
         <br />
@@ -260,6 +267,7 @@
         grm34
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hzdlive">
         <img src="https://avatars.githubusercontent.com/u/3319136?v=4" width="50" />
@@ -267,7 +275,6 @@
         hzdlive
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Leoche">
         <img src="https://avatars.githubusercontent.com/u/1678699?v=4" width="50" />
@@ -291,12 +298,10 @@
     </td>
     <td width="150" align="center">
     </td>
-    <td width="150" align="center">
-    </td>
   </tr>
 </table>
 
-## Following <kbd>79</kbd>
+## Following <kbd>80</kbd>
 
 <table>
   <tr>
@@ -869,6 +874,11 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/ZHO-ZHO-ZHO">
+        <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" />
+        <br />
+        ZHO-ZHO-ZHO
+      </a>
     </td>
   </tr>
 </table>
