@@ -12,7 +12,7 @@
 | -- | -- | -- | -- | -- |
 | it985 | 集大家之所长，补其吾所短。 | - | China | [@Home](https://github.com/Home) |
 
-## Followers <kbd>39</kbd>
+## Followers <kbd>40</kbd>
 
 <table>
   <tr>
@@ -38,12 +38,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Elnorre">
+        <img src="https://avatars.githubusercontent.com/u/137526264?v=4" width="50" />
+        <br />
+        Elnorre
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/tufanakcay">
         <img src="https://avatars.githubusercontent.com/u/132299647?v=4" width="50" />
         <br />
         tufanakcay
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/LaryGereg56">
         <img src="https://avatars.githubusercontent.com/u/131237404?v=4" width="50" />
@@ -51,7 +59,6 @@
         LaryGereg56
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/medisanaa">
         <img src="https://avatars.githubusercontent.com/u/129278737?v=4" width="50" />
@@ -80,6 +87,7 @@
         eddyonl
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/tacknuzz">
         <img src="https://avatars.githubusercontent.com/u/129225953?v=4" width="50" />
@@ -87,7 +95,6 @@
         tacknuzz
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rileyca">
         <img src="https://avatars.githubusercontent.com/u/129225230?v=4" width="50" />
@@ -116,6 +123,7 @@
         Networkvibes
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sjgsodjsna">
         <img src="https://avatars.githubusercontent.com/u/117784368?v=4" width="50" />
@@ -123,7 +131,6 @@
         sjgsodjsna
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Nikavoguialy">
         <img src="https://avatars.githubusercontent.com/u/116597090?v=4" width="50" />
@@ -152,6 +159,7 @@
         Nat8833
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/appgenerable">
         <img src="https://avatars.githubusercontent.com/u/114630840?v=4" width="50" />
@@ -159,7 +167,6 @@
         appgenerable
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Whiskey992">
         <img src="https://avatars.githubusercontent.com/u/113369543?v=4" width="50" />
@@ -188,6 +195,7 @@
         mtrackeros
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sammorozov">
         <img src="https://avatars.githubusercontent.com/u/109150200?v=4" width="50" />
@@ -195,7 +203,6 @@
         sammorozov
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Th1983">
         <img src="https://avatars.githubusercontent.com/u/88440987?v=4" width="50" />
@@ -224,6 +231,7 @@
         surfskyio
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bakoorahnin">
         <img src="https://avatars.githubusercontent.com/u/46295417?v=4" width="50" />
@@ -231,7 +239,6 @@
         bakoorahnin
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dirambora">
         <img src="https://avatars.githubusercontent.com/u/42798758?v=4" width="50" />
@@ -260,6 +267,7 @@
         alvin-tosh
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/grm34">
         <img src="https://avatars.githubusercontent.com/u/6394023?v=4" width="50" />
@@ -267,7 +275,6 @@
         grm34
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hzdlive">
         <img src="https://avatars.githubusercontent.com/u/3319136?v=4" width="50" />
@@ -295,8 +302,6 @@
         <br />
         esin
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
