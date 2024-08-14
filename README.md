@@ -12,7 +12,7 @@
 | -- | -- | -- | -- | -- |
 | it985 | 集大家之所长，补其吾所短。 | - | China | [@Home](https://github.com/Home) |
 
-## Followers <kbd>41</kbd>
+## Followers <kbd>40</kbd>
 
 <table>
   <tr>
@@ -197,13 +197,6 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/sammorozov">
-        <img src="https://avatars.githubusercontent.com/u/109150200?v=4" width="50" />
-        <br />
-        sammorozov
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/SIMPHIWT">
         <img src="https://avatars.githubusercontent.com/u/96369846?v=4" width="50" />
         <br />
@@ -231,7 +224,6 @@
         smallerkun
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/surfskyio">
         <img src="https://avatars.githubusercontent.com/u/59265835?v=4" width="50" />
@@ -239,6 +231,7 @@
         surfskyio
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bakoorahnin">
         <img src="https://avatars.githubusercontent.com/u/46295417?v=4" width="50" />
@@ -267,7 +260,6 @@
         kaka-jia
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/alvin-tosh">
         <img src="https://avatars.githubusercontent.com/u/13796386?v=4" width="50" />
@@ -275,6 +267,7 @@
         alvin-tosh
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/grm34">
         <img src="https://avatars.githubusercontent.com/u/6394023?v=4" width="50" />
@@ -303,21 +296,12 @@
         chrislusf
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/esin">
         <img src="https://avatars.githubusercontent.com/u/69767?v=4" width="50" />
         <br />
         esin
       </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
