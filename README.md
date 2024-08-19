@@ -322,7 +322,7 @@
   </tr>
 </table>
 
-## Following <kbd>82</kbd>
+## Following <kbd>83</kbd>
 
 <table>
   <tr>
@@ -701,6 +701,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/huggingface">
+        <img src="https://avatars.githubusercontent.com/u/25720743?v=4" width="50" />
+        <br />
+        huggingface
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/able8">
         <img src="https://avatars.githubusercontent.com/u/26692080?v=4" width="50" />
         <br />
@@ -714,6 +721,7 @@
         Snailclimb
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chinese-poetry">
         <img src="https://avatars.githubusercontent.com/u/30764933?v=4" width="50" />
@@ -721,7 +729,6 @@
         chinese-poetry
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/233boy">
         <img src="https://avatars.githubusercontent.com/u/31657650?v=4" width="50" />
@@ -750,6 +757,7 @@
         qunarcorp
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/30-seconds">
         <img src="https://avatars.githubusercontent.com/u/43479428?v=4" width="50" />
@@ -757,7 +765,6 @@
         30-seconds
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/doocs">
         <img src="https://avatars.githubusercontent.com/u/43716716?v=4" width="50" />
@@ -786,6 +793,7 @@
         java-community
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/go-community">
         <img src="https://avatars.githubusercontent.com/u/47104367?v=4" width="50" />
@@ -793,7 +801,6 @@
         go-community
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/v2fly">
         <img src="https://avatars.githubusercontent.com/u/49637375?v=4" width="50" />
@@ -822,6 +829,7 @@
         Programming-With-Love
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/webVueBlog">
         <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="50" />
@@ -829,7 +837,6 @@
         webVueBlog
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/kuaidi100-api">
         <img src="https://avatars.githubusercontent.com/u/68226294?v=4" width="50" />
@@ -858,6 +865,7 @@
         jd-opensource
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CodingDocs">
         <img src="https://avatars.githubusercontent.com/u/80885507?v=4" width="50" />
@@ -865,7 +873,6 @@
         CodingDocs
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/WuKongOpenSource">
         <img src="https://avatars.githubusercontent.com/u/82020991?v=4" width="50" />
@@ -894,6 +901,7 @@
         uncle-novel
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AI-Hobbyist">
         <img src="https://avatars.githubusercontent.com/u/131221877?v=4" width="50" />
@@ -901,7 +909,6 @@
         AI-Hobbyist
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CyberCommy">
         <img src="https://avatars.githubusercontent.com/u/132496677?v=4" width="50" />
@@ -915,8 +922,6 @@
         <br />
         ZHO-ZHO-ZHO
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
