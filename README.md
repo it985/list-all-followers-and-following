@@ -12,7 +12,7 @@
 | -- | -- | -- | -- | -- |
 | it985 | 集大家之所长，补其吾所短。 | - | China | [@Home](https://github.com/Home) |
 
-## Followers <kbd>41</kbd>
+## Followers <kbd>42</kbd>
 
 <table>
   <tr>
@@ -261,13 +261,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/eust-w">
+        <img src="https://avatars.githubusercontent.com/u/39115651?v=4" width="50" />
+        <br />
+        eust-w
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/kaka-jia">
         <img src="https://avatars.githubusercontent.com/u/25244657?v=4" width="50" />
         <br />
         kaka-jia
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/alvin-tosh">
         <img src="https://avatars.githubusercontent.com/u/13796386?v=4" width="50" />
@@ -296,6 +303,7 @@
         Leoche
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chrislusf">
         <img src="https://avatars.githubusercontent.com/u/1543151?v=4" width="50" />
@@ -303,15 +311,12 @@
         chrislusf
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/esin">
         <img src="https://avatars.githubusercontent.com/u/69767?v=4" width="50" />
         <br />
         esin
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
