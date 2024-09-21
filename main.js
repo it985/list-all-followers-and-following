@@ -81,10 +81,6 @@ async function run() {
 `;
     const end = `## LICENSE
 
-[MIT](https://github.com/xrkffgg/list-all-followers-and-following/blob/main/LICENSE)
-
-Copyright (c) 2021-present [xrkffgg](https://github.com/xrkffgg)
-
 `;
     writeFileSync("./README.md", before + middle + end);
     console.log("Done!");
