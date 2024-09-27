@@ -332,7 +332,7 @@
   </tr>
 </table>
 
-## Following <kbd>81</kbd>
+## Following <kbd>82</kbd>
 
 <table>
   <tr>
@@ -862,12 +862,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/babalae">
+        <img src="https://avatars.githubusercontent.com/u/72920340?v=4" width="50" />
+        <br />
+        babalae
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/jd-opensource">
         <img src="https://avatars.githubusercontent.com/u/75349771?v=4" width="50" />
         <br />
         jd-opensource
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CodingDocs">
         <img src="https://avatars.githubusercontent.com/u/80885507?v=4" width="50" />
@@ -875,7 +883,6 @@
         CodingDocs
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/WuKongOpenSource">
         <img src="https://avatars.githubusercontent.com/u/82020991?v=4" width="50" />
@@ -904,6 +911,7 @@
         AI-Hobbyist
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CyberCommy">
         <img src="https://avatars.githubusercontent.com/u/132496677?v=4" width="50" />
@@ -911,15 +919,12 @@
         CyberCommy
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ZHO-ZHO-ZHO">
         <img src="https://avatars.githubusercontent.com/u/140084057?v=4" width="50" />
         <br />
         ZHO-ZHO-ZHO
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
