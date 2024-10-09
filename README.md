@@ -337,7 +337,7 @@
   </tr>
 </table>
 
-## Following <kbd>78</kbd>
+## Following <kbd>83</kbd>
 
 <table>
   <tr>
@@ -694,13 +694,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/leng-yue">
+        <img src="https://avatars.githubusercontent.com/u/25119060?v=4" width="50" />
+        <br />
+        leng-yue
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/huggingface">
         <img src="https://avatars.githubusercontent.com/u/25720743?v=4" width="50" />
         <br />
         huggingface
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/able8">
         <img src="https://avatars.githubusercontent.com/u/26692080?v=4" width="50" />
@@ -729,6 +736,7 @@
         llnancy
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/imsyy">
         <img src="https://avatars.githubusercontent.com/u/42232682?v=4" width="50" />
@@ -736,7 +744,6 @@
         imsyy
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/0voice">
         <img src="https://avatars.githubusercontent.com/u/43104160?v=4" width="50" />
@@ -765,6 +772,7 @@
         doocs
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/actions">
         <img src="https://avatars.githubusercontent.com/u/44036562?v=4" width="50" />
@@ -772,7 +780,6 @@
         actions
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rcy1314">
         <img src="https://avatars.githubusercontent.com/u/46085246?v=4" width="50" />
@@ -801,6 +808,7 @@
         v2fly
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/opensabre">
         <img src="https://avatars.githubusercontent.com/u/50523102?v=4" width="50" />
@@ -808,7 +816,13 @@
         opensabre
       </a>
     </td>
-  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/Stardust-minus">
+        <img src="https://avatars.githubusercontent.com/u/52093397?v=4" width="50" />
+        <br />
+        Stardust-minus
+      </a>
+    </td>
     <td width="150" align="center">
       <a href="https://github.com/newbee-ltd">
         <img src="https://avatars.githubusercontent.com/u/54432684?v=4" width="50" />
@@ -830,6 +844,14 @@
         webVueBlog
       </a>
     </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/innnky">
+        <img src="https://avatars.githubusercontent.com/u/67028263?v=4" width="50" />
+        <br />
+        innnky
+      </a>
+    </td>
     <td width="150" align="center">
       <a href="https://github.com/element-plus">
         <img src="https://avatars.githubusercontent.com/u/68583457?v=4" width="50" />
@@ -844,7 +866,6 @@
         it-ebooks-0
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/babalae">
         <img src="https://avatars.githubusercontent.com/u/72920340?v=4" width="50" />
@@ -859,6 +880,7 @@
         jd-opensource
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CodingDocs">
         <img src="https://avatars.githubusercontent.com/u/80885507?v=4" width="50" />
@@ -880,12 +902,26 @@
         jeecgboot
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/web-infra-dev">
         <img src="https://avatars.githubusercontent.com/u/87694465?v=4" width="50" />
         <br />
         web-infra-dev
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/fishaudio">
+        <img src="https://avatars.githubusercontent.com/u/122017386?v=4" width="50" />
+        <br />
+        fishaudio
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/RVC-Boss">
+        <img src="https://avatars.githubusercontent.com/u/129054828?v=4" width="50" />
+        <br />
+        RVC-Boss
       </a>
     </td>
     <td width="150" align="center">
