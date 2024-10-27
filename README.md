@@ -12,7 +12,7 @@
 | -- | -- | -- | -- | -- |
 | it985 | 集大家之所长，补其吾所短。 | - | China | [@Home](https://github.com/Home) |
 
-## Followers <kbd>44</kbd>
+## Followers <kbd>45</kbd>
 
 <table>
   <tr>
@@ -319,6 +319,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/trinhminhtriet">
+        <img src="https://avatars.githubusercontent.com/u/1650997?v=4" width="50" />
+        <br />
+        trinhminhtriet
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/chrislusf">
         <img src="https://avatars.githubusercontent.com/u/1543151?v=4" width="50" />
         <br />
@@ -331,8 +338,6 @@
         <br />
         esin
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
