@@ -337,7 +337,7 @@
   </tr>
 </table>
 
-## Following <kbd>74</kbd>
+## Following <kbd>73</kbd>
 
 <table>
   <tr>
@@ -817,13 +817,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/innnky">
-        <img src="https://avatars.githubusercontent.com/u/67028263?v=4" width="50" />
-        <br />
-        innnky
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/element-plus">
         <img src="https://avatars.githubusercontent.com/u/68583457?v=4" width="50" />
         <br />
@@ -844,7 +837,6 @@
         jd-opensource
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CodingDocs">
         <img src="https://avatars.githubusercontent.com/u/80885507?v=4" width="50" />
@@ -852,6 +844,7 @@
         CodingDocs
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jeecgboot">
         <img src="https://avatars.githubusercontent.com/u/86360035?v=4" width="50" />
@@ -872,6 +865,8 @@
         <br />
         CyberCommy
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
