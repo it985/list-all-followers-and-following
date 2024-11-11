@@ -342,7 +342,7 @@
   </tr>
 </table>
 
-## Following <kbd>73</kbd>
+## Following <kbd>72</kbd>
 
 <table>
   <tr>
@@ -793,13 +793,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Stardust-minus">
-        <img src="https://avatars.githubusercontent.com/u/52093397?v=4" width="50" />
-        <br />
-        Stardust-minus
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/newbee-ltd">
         <img src="https://avatars.githubusercontent.com/u/54432684?v=4" width="50" />
         <br />
@@ -813,7 +806,6 @@
         Programming-With-Love
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/webVueBlog">
         <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="50" />
@@ -821,6 +813,7 @@
         webVueBlog
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/element-plus">
         <img src="https://avatars.githubusercontent.com/u/68583457?v=4" width="50" />
@@ -849,7 +842,6 @@
         CodingDocs
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jeecgboot">
         <img src="https://avatars.githubusercontent.com/u/86360035?v=4" width="50" />
@@ -857,6 +849,7 @@
         jeecgboot
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AI-Hobbyist">
         <img src="https://avatars.githubusercontent.com/u/131221877?v=4" width="50" />
@@ -870,6 +863,8 @@
         <br />
         CyberCommy
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
