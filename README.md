@@ -358,7 +358,7 @@
   </tr>
 </table>
 
-## Following <kbd>72</kbd>
+## Following <kbd>73</kbd>
 
 <table>
   <tr>
@@ -823,13 +823,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/WuSuoV">
+        <img src="https://avatars.githubusercontent.com/u/57932548?v=4" width="50" />
+        <br />
+        WuSuoV
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/webVueBlog">
         <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="50" />
         <br />
         webVueBlog
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/element-plus">
         <img src="https://avatars.githubusercontent.com/u/68583457?v=4" width="50" />
@@ -858,6 +865,7 @@
         CodingDocs
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jeecgboot">
         <img src="https://avatars.githubusercontent.com/u/86360035?v=4" width="50" />
@@ -865,7 +873,6 @@
         jeecgboot
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AI-Hobbyist">
         <img src="https://avatars.githubusercontent.com/u/131221877?v=4" width="50" />
@@ -879,8 +886,6 @@
         <br />
         CyberCommy
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
