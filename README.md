@@ -10,7 +10,7 @@
 
 | Name | Bio | Blog | Location | Company |
 | -- | -- | -- | -- | -- |
-| it985 | 集大家之所长，补其吾所短。 | - | China | [@Home](https://github.com/Home) |
+| it985 | 集大家之所长，补其吾所短。 | [https://blog.study996.cn](https://https://blog.study996.cn) | China | [@Home](https://github.com/Home) |
 
 ## Followers <kbd>47</kbd>
 
