@@ -30,3 +30,8 @@ jobs:
           git add -A
           git commit -m "🤖 Auto update README" || exit 0
           git push
+      - name: Delete Workflow Runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          retain_days: 30
+          keep_minimum_runs: 6
