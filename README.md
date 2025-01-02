@@ -12,7 +12,7 @@
 | -- | -- | -- | -- | -- |
 | it985 | 集大家之所长，补其吾所短。 | [https://blog.study996.cn](https://https://blog.study996.cn) | China | [@Home](https://github.com/Home) |
 
-## Followers <kbd>49</kbd>
+## Followers <kbd>50</kbd>
 
 <table>
   <tr>
@@ -305,6 +305,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/bludnic">
+        <img src="https://avatars.githubusercontent.com/u/25831507?v=4" width="50" />
+        <br />
+        bludnic
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/kaka-jia">
         <img src="https://avatars.githubusercontent.com/u/25244657?v=4" width="50" />
         <br />
@@ -332,6 +339,7 @@
         grm34
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hzdlive">
         <img src="https://avatars.githubusercontent.com/u/3319136?v=4" width="50" />
@@ -339,7 +347,6 @@
         hzdlive
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Leoche">
         <img src="https://avatars.githubusercontent.com/u/1678699?v=4" width="50" />
@@ -367,8 +374,6 @@
         <br />
         esin
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
