@@ -368,7 +368,7 @@
   </tr>
 </table>
 
-## Following <kbd>76</kbd>
+## Following <kbd>75</kbd>
 
 <table>
   <tr>
@@ -754,20 +754,12 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/imsyy">
-        <img src="https://avatars.githubusercontent.com/u/42232682?v=4" width="50" />
-        <br />
-        imsyy
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/0voice">
         <img src="https://avatars.githubusercontent.com/u/43104160?v=4" width="50" />
         <br />
         0voice
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/qunarcorp">
         <img src="https://avatars.githubusercontent.com/u/43158242?v=4" width="50" />
@@ -775,6 +767,7 @@
         qunarcorp
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/30-seconds">
         <img src="https://avatars.githubusercontent.com/u/43479428?v=4" width="50" />
@@ -803,7 +796,6 @@
         rcy1314
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/java-community">
         <img src="https://avatars.githubusercontent.com/u/47103846?v=4" width="50" />
@@ -811,6 +803,7 @@
         java-community
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/go-community">
         <img src="https://avatars.githubusercontent.com/u/47104367?v=4" width="50" />
@@ -839,7 +832,6 @@
         newbee-ltd
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Programming-With-Love">
         <img src="https://avatars.githubusercontent.com/u/56310988?v=4" width="50" />
@@ -847,6 +839,7 @@
         Programming-With-Love
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/WuSuoV">
         <img src="https://avatars.githubusercontent.com/u/57932548?v=4" width="50" />
@@ -875,7 +868,6 @@
         it-ebooks-0
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jd-opensource">
         <img src="https://avatars.githubusercontent.com/u/75349771?v=4" width="50" />
@@ -883,6 +875,7 @@
         jd-opensource
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CodingDocs">
         <img src="https://avatars.githubusercontent.com/u/80885507?v=4" width="50" />
@@ -911,21 +904,12 @@
         AI-Hobbyist
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CyberCommy">
         <img src="https://avatars.githubusercontent.com/u/132496677?v=4" width="50" />
         <br />
         CyberCommy
       </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
