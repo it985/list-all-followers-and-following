@@ -358,7 +358,7 @@
   </tr>
 </table>
 
-## Following <kbd>72</kbd>
+## Following <kbd>75</kbd>
 
 <table>
   <tr>
@@ -881,10 +881,25 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/QwenLM">
+        <img src="https://avatars.githubusercontent.com/u/141221163?v=4" width="50" />
+        <br />
+        QwenLM
+      </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/deepseek-ai">
+        <img src="https://avatars.githubusercontent.com/u/148330874?v=4" width="50" />
+        <br />
+        deepseek-ai
+      </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/ollama">
+        <img src="https://avatars.githubusercontent.com/u/151674099?v=4" width="50" />
+        <br />
+        ollama
+      </a>
     </td>
   </tr>
 </table>
