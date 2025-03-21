@@ -358,7 +358,7 @@
   </tr>
 </table>
 
-## Following <kbd>57</kbd>
+## Following <kbd>58</kbd>
 
 <table>
   <tr>
@@ -737,6 +737,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/willow-god">
+        <img src="https://avatars.githubusercontent.com/u/93815242?v=4" width="50" />
+        <br />
+        willow-god
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/AI-Hobbyist">
         <img src="https://avatars.githubusercontent.com/u/131221877?v=4" width="50" />
         <br />
@@ -750,6 +757,7 @@
         CyberCommy
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/QwenLM">
         <img src="https://avatars.githubusercontent.com/u/141221163?v=4" width="50" />
@@ -757,7 +765,6 @@
         QwenLM
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/deepseek-ai">
         <img src="https://avatars.githubusercontent.com/u/148330874?v=4" width="50" />
@@ -771,8 +778,6 @@
         <br />
         ollama
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
