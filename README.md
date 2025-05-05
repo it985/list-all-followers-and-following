@@ -342,7 +342,7 @@
   </tr>
 </table>
 
-## Following <kbd>58</kbd>
+## Following <kbd>33</kbd>
 
 <table>
   <tr>
@@ -375,63 +375,13 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/meituan">
-        <img src="https://avatars.githubusercontent.com/u/977371?v=4" width="50" />
-        <br />
-        meituan
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
       <a href="https://github.com/v3ucn">
         <img src="https://avatars.githubusercontent.com/u/1288038?v=4" width="50" />
         <br />
         v3ucn
       </a>
     </td>
-    <td width="150" align="center">
-      <a href="https://github.com/alipay">
-        <img src="https://avatars.githubusercontent.com/u/1299356?v=4" width="50" />
-        <br />
-        alipay
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/google">
-        <img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="50" />
-        <br />
-        google
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/NetEase">
-        <img src="https://avatars.githubusercontent.com/u/1460597?v=4" width="50" />
-        <br />
-        NetEase
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/mybatis">
-        <img src="https://avatars.githubusercontent.com/u/1483254?v=4" width="50" />
-        <br />
-        mybatis
-      </a>
-    </td>
   </tr><tr>
-    <td width="150" align="center">
-      <a href="https://github.com/AlloyTeam">
-        <img src="https://avatars.githubusercontent.com/u/1503033?v=4" width="50" />
-        <br />
-        AlloyTeam
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/dianping">
-        <img src="https://avatars.githubusercontent.com/u/1539555?v=4" width="50" />
-        <br />
-        dianping
-      </a>
-    </td>
     <td width="150" align="center">
       <a href="https://github.com/jaywcjlove">
         <img src="https://avatars.githubusercontent.com/u/1680273?v=4" width="50" />
@@ -453,19 +403,11 @@
         alibaba
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/YunaiV">
         <img src="https://avatars.githubusercontent.com/u/2015545?v=4" width="50" />
         <br />
         YunaiV
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/bytedance">
-        <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="50" />
-        <br />
-        bytedance
       </a>
     </td>
     <td width="150" align="center">
@@ -475,13 +417,7 @@
         ityouknow
       </a>
     </td>
-    <td width="150" align="center">
-      <a href="https://github.com/docker">
-        <img src="https://avatars.githubusercontent.com/u/5429470?v=4" width="50" />
-        <br />
-        docker
-      </a>
-    </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/realpdai">
         <img src="https://avatars.githubusercontent.com/u/6094984?v=4" width="50" />
@@ -489,7 +425,6 @@
         realpdai
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vuejs">
         <img src="https://avatars.githubusercontent.com/u/6128107?v=4" width="50" />
@@ -498,35 +433,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/microsoft">
-        <img src="https://avatars.githubusercontent.com/u/6154722?v=4" width="50" />
-        <br />
-        microsoft
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/fex-team">
-        <img src="https://avatars.githubusercontent.com/u/6668906?v=4" width="50" />
-        <br />
-        fex-team
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/bilibili">
-        <img src="https://avatars.githubusercontent.com/u/12002442?v=4" width="50" />
-        <br />
-        bilibili
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/ant-design">
-        <img src="https://avatars.githubusercontent.com/u/12101536?v=4" width="50" />
-        <br />
-        ant-design
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
       <a href="https://github.com/wovert">
         <img src="https://avatars.githubusercontent.com/u/12456434?v=4" width="50" />
         <br />
@@ -534,24 +440,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/ElemeFE">
-        <img src="https://avatars.githubusercontent.com/u/12810740?v=4" width="50" />
-        <br />
-        ElemeFE
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/macrozheng">
         <img src="https://avatars.githubusercontent.com/u/15903809?v=4" width="50" />
         <br />
         macrozheng
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/Tencent">
-        <img src="https://avatars.githubusercontent.com/u/18461506?v=4" width="50" />
-        <br />
-        Tencent
       </a>
     </td>
     <td width="150" align="center">
@@ -570,20 +462,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Meituan-Dianping">
-        <img src="https://avatars.githubusercontent.com/u/20238146?v=4" width="50" />
-        <br />
-        Meituan-Dianping
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/Huawei">
-        <img src="https://avatars.githubusercontent.com/u/20315766?v=4" width="50" />
-        <br />
-        Huawei
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/TheAlgorithms">
         <img src="https://avatars.githubusercontent.com/u/20487725?v=4" width="50" />
         <br />
@@ -595,21 +473,6 @@
         <img src="https://avatars.githubusercontent.com/u/22501693?v=4" width="50" />
         <br />
         shuhongfan
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
-      <a href="https://github.com/huggingface">
-        <img src="https://avatars.githubusercontent.com/u/25720743?v=4" width="50" />
-        <br />
-        huggingface
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/able8">
-        <img src="https://avatars.githubusercontent.com/u/26692080?v=4" width="50" />
-        <br />
-        able8
       </a>
     </td>
     <td width="150" align="center">
@@ -626,6 +489,7 @@
         llnancy
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/0voice">
         <img src="https://avatars.githubusercontent.com/u/43104160?v=4" width="50" />
@@ -633,7 +497,6 @@
         0voice
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/doocs">
         <img src="https://avatars.githubusercontent.com/u/43716716?v=4" width="50" />
@@ -653,13 +516,6 @@
         <img src="https://avatars.githubusercontent.com/u/46085246?v=4" width="50" />
         <br />
         rcy1314
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/go-community">
-        <img src="https://avatars.githubusercontent.com/u/47104367?v=4" width="50" />
-        <br />
-        go-community
       </a>
     </td>
     <td width="150" align="center">
@@ -685,27 +541,12 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/element-plus">
-        <img src="https://avatars.githubusercontent.com/u/68583457?v=4" width="50" />
-        <br />
-        element-plus
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/it-ebooks-0">
         <img src="https://avatars.githubusercontent.com/u/70613375?v=4" width="50" />
         <br />
         it-ebooks-0
       </a>
     </td>
-    <td width="150" align="center">
-      <a href="https://github.com/jd-opensource">
-        <img src="https://avatars.githubusercontent.com/u/75349771?v=4" width="50" />
-        <br />
-        jd-opensource
-      </a>
-    </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CodingDocs">
         <img src="https://avatars.githubusercontent.com/u/80885507?v=4" width="50" />
@@ -720,6 +561,7 @@
         jeecgboot
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/willow-god">
         <img src="https://avatars.githubusercontent.com/u/93815242?v=4" width="50" />
@@ -739,28 +581,6 @@
         <img src="https://avatars.githubusercontent.com/u/132496677?v=4" width="50" />
         <br />
         CyberCommy
-      </a>
-    </td>
-  </tr><tr>
-    <td width="150" align="center">
-      <a href="https://github.com/QwenLM">
-        <img src="https://avatars.githubusercontent.com/u/141221163?v=4" width="50" />
-        <br />
-        QwenLM
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/deepseek-ai">
-        <img src="https://avatars.githubusercontent.com/u/148330874?v=4" width="50" />
-        <br />
-        deepseek-ai
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/ollama">
-        <img src="https://avatars.githubusercontent.com/u/151674099?v=4" width="50" />
-        <br />
-        ollama
       </a>
     </td>
     <td width="150" align="center">
